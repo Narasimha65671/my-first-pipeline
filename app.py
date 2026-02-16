@@ -1,3 +1,3 @@
 print("Start")
-x = 5/0
+x = 5/1
 print("End")
