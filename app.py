@@ -1,1 +1,3 @@
-print("Pipeline running successfully")
+print("Start")
+x = 5/0
+print("End")
